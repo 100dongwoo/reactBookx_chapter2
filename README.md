@@ -8,7 +8,7 @@ This Repositories referred to "The art o React, 2nd (2019)".<br>
 - [ ] chapter 11~13<br>
 - [x] chapter 14 외부 API  (Use API) <br>
 keyword: axios, await,styled-component,async <br>
-- [] chapter 15<br>
+- [ ] chapter 15<br>
 - [ ] chapter 16<br>
 - [ ] chapter 17<br>
 - [ ] chapter 18<br>
