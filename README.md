@@ -1,4 +1,4 @@
-"리액트를 다루는 기술" 를 참고하여 연습하였다.<br>
+"리액트를 다루는 기술" 를 참고하여 연습하였습니다.<br>
 This Repositories referred to "The art o React, 2nd (2019)".<br>
 
 
@@ -7,8 +7,9 @@ This Repositories referred to "The art o React, 2nd (2019)".<br>
 - [ ] chapter 6-10 <br>
 - [ ] chapter 11~13<br>
 - [x] chapter 14 외부 API  (Use API) <br>
-keyword: axios, await,styled-component,async, usePromise <br>
-- [ ] chapter 15<br>
+keyword: axios, await,styled-component,async, usePromise ,usecallback<br>
+- [x] chapter 15<br>
+keyword: Context, createContext,Provider,Consumer,useContext,<br>
 - [ ] chapter 16<br>
 - [ ] chapter 17<br>
 - [ ] chapter 18<br>
