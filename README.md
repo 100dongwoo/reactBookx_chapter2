@@ -3,21 +3,21 @@ This Repositories referred to "The art o React, 2nd (2019)".<br>
 
 
 ### Progress (진행도)
-*-[ ] chapter 1~5*
-*-[ ] chapter 6~10*
-*-[ ] chapter 11~13*
-*-[X] chapter 14 외부 API  (Use API)* <br>
+-[ ] chapter 1~5<br>
+-[ ] chapter 6~10<br>
+-[ ] chapter 11~13<br>
+-[X] chapter 14 외부 API  (Use API) <br>
 keyword: axios, await,styled-component,async <br>
-*-[ ] chapter 15*
-*-[ ] chapter 16*
-*-[ ] chapter 17*
-*-[ ] chapter 18*
-*-[ ] chapter 19*
-*-[ ] chapter 20*
-*-[ ] chapter 21*
-*-[ ] chapter 22*
-*-[ ] chapter 23*
-*-[ ] chapter 24*
-*-[ ] chapter 25*
-*-[ ] chapter 26*
-*-[ ] chapter 27*
+-[ ] chapter 15<br>
+-[ ] chapter 16<br>
+-[ ] chapter 17<br>
+-[ ] chapter 18<br>
+-[ ] chapter 19<br>
+-[ ] chapter 20<br>
+-[ ] chapter 21<br>
+-[ ] chapter 22<br>
+-[ ] chapter 23<br>
+-[ ] chapter 24<br>
+-[ ] chapter 25<br>
+-[ ] chapter 26<br>
+-[ ] chapter 27<br>
