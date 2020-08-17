@@ -1,5 +1,5 @@
 "리액트를 다루는 기술" 를 참고하여 연습하였습니다.<br>
-This Repositories referred to "The art o React, 2nd (2019)".<br>
+This Repositories referred to "The art of React, 2nd (2019)".<br>
 
 
 ### Progress (진행도)
