@@ -1,10 +1,11 @@
 "리액트를 다루는 기술" 를 참고하여 연습하였습니다.<br>
-This Repositories referred to "The art o React, 2nd (2019)".<br>
+This Repositories referred to "The art of React, 2nd (2019)".<br>
 
 
 ### Progress (진행도)
 - [ ] chapter 1-5 <br>
 - [ ] chapter 6-10 <br>
+keyword :concat함수(배열), filter(name=>name.id!!==id {조건에 맞는거만 남긴다})
 - [ ] chapter 11~13<br>
 - [x] chapter 14 외부 API  (Use API) <br>
 keyword: axios, await,styled-component,async, usePromise ,usecallback<br>
