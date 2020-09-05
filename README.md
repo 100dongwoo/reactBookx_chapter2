@@ -5,7 +5,11 @@ This Repositories referred to "The art of React, 2nd (2019)".<br>
 ### Progress (진행도)
 - [ ] chapter 1-5 <br>
 - [ ] chapter 6-10 <br>
-keyword :concat함수(배열), filter(name=>name.id!!==id {조건에 맞는거만 남긴다})
+keyword :concat함수(배열), filter(name=>name.id!!==id {조건에 맞는거만 남긴다})<br>
+ch8 <br>
+ - useMemo:랜더링과정에서 특정값이 바뀔떄만 연산실행 바뀌지 않으면 이전결과 사용 <br>
+ - useCallback: 함수를 반환하는경우 사용가능 <br>
+ - useRef : 함수형컴포넌트에서 쉽게 ref를 사용할수있도록
 - [ ] chapter 11~13<br>
 - [x] chapter 14 외부 API  (Use API) <br>
 keyword: axios, await,styled-component,async, usePromise ,usecallback<br>
