@@ -6,10 +6,11 @@ import Hooks from "./ch8 Hooks/Hooks";
 import Counter from "./ch8 Hooks/useReducer";
 import Info from "./ch8 Hooks/Info";
 import UseMemo from "./ch8 Hooks/useMemo";
+import Sass from "./ch9 ComponentStyling/Sass";
 const App = () => {
   return (
     <div>
-      <UseMemo />
+      <Sass />
     </div>
   );
 };
