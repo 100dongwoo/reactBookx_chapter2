@@ -1,3 +1,5 @@
+@import '~include-media/dist/include-media';
+@import '~open-color/open-color';
 $red: #fa5252;
 $orange: #fd7e14;
 $yellow: #fcc419;
@@ -11,8 +13,13 @@ $violet: #7950f2;
   height: $calculated;
 }
 
-.SassCoponent {
+.SassComponent {
   display: flex;
+  background: $oc-gray-2;
+  @include media('<768px') {
+    background: $oc-gray-9;
+  }
+
 
   .box {
     background: red;

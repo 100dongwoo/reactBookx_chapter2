@@ -11,7 +11,9 @@ keyword :concat함수(배열), filter(name=>name.id!!==id {조건에 맞는거�
  - useCallback: 함수를 반환하는경우 사용가능 <br>
  - useRef : 함수형컴포넌트에서 쉽게 ref를 사용할수있도록
  ##### ch9 <br>
- - Sass :(.scss ,.sass 확장자(중괄호, ; 사용 X) ) = yarn add node-sass
+ - Sass :(.scss ,.sass 확장자(중괄호, ; 사용 X) ) = yarn add node-sass <br>
+ - Sass 커스터마이징 : yarn eject -> cogfig -> webpack.config.js-> ctrl+f sassRegex ->"delete sass-loader"  -> concat ->수정 
+    ->수정 후 ->yarn add open-color include-media
 - [ ] chapter 11~13<br>
 - [x] chapter 14 외부 API  (Use API) <br>
 keyword: axios, await,styled-component,async, usePromise ,usecallback<br>

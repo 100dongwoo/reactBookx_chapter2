@@ -2,7 +2,7 @@ import React from "react";
 import "./SassComponent.scss";
 function Sass(props) {
   return (
-    <div className="SassCoponent">
+    <div className="SassComponent">
       <div className="box red"></div>
       <div className="box orange"></div>
       <div className="box yellow"></div>
